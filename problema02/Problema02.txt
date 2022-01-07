@@ -1,3 +1,4 @@
+
 1 Inicio
 2  funcion principal()
 3   arreglo(5), x(100)[{a-z}, {BS}, {A-Z}]
