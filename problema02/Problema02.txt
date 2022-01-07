@@ -1,0 +1,16 @@
+1 Inicio
+2  funcion principal()
+3   arreglo(5), x(100)[{a-z}, {BS}, {A-Z}]
+4   ingresarvalores(arreglo)
+5  fin funcion principal
+6
+7  funcion ingresarvalores(arreglo : x)
+8   Para (i<--0, i < arreglo.length, 1)
+9	<< "Ingrese el dato número " + i
+10	>> arreglo[i]
+11   Fin_Para
+12   Para (i<--0, i < arreglo.length, 1)
+13	<< arreglo[i]
+14   Fin_Para
+15  fin funcion ingresarvalores()
+16 Fin
