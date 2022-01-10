@@ -2,9 +2,6 @@
 1 Inicio
 2  funcion principal()
 3	tipo, i[0-3]
-3	area_Cuadrado, d[0-n]
-4       area_Triangulo, d[0-n]
-5	area_Rectangulo, d[0-n]
 6	<< "Ingrese 1 para Cuadrado. Ingrese 2 para Rectángulo."
                 + " Ingrese 3 para Triángulo."
 	>> tipo
